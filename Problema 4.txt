@@ -1,0 +1,23 @@
+Considerando a distância de 100 km entre Ribeirão Preto e Franca, e levando em consideração que o carro tem uma velocidade constante de 110 km/h e o caminhão tem uma velocidade constante de 80 km/h, podemos calcular o tempo de viagem para ambos e determinar em qual ponto da rodovia eles se cruzarão.
+
+Para o carro:
+Velocidade do carro = 110 km/h
+Distância entre Ribeirão Preto e Franca = 100 km
+Tempo de viagem do carro = Distância / Velocidade = 100 km / 110 km/h = 0,91 horas
+
+Para o caminhão:
+Velocidade do caminhão = 80 km/h
+Distância entre Ribeirão Preto e Franca = 100 km
+Tempo de viagem do caminhão = Distância / Velocidade = 100 km / 80 km/h = 1,25 horas
+
+Agora, precisamos considerar o tempo adicional que o caminhão leva para passar pelos pedágios. Supondo que cada pedágio acrescente 5 minutos (ou 1/12 de hora) ao tempo de viagem do caminhão, temos:
+
+Tempo adicional do caminhão para passar pelos pedágios = 2 * (1/12) = 1/6 horas
+
+Somando o tempo de viagem do caminhão com o tempo adicional dos pedágios, temos:
+
+Tempo total de viagem do caminhão = 1,25 + 1/6 = 1,42 horas
+
+Portanto, o caminhão levará 1,42 horas para chegar ao ponto de cruzamento na rodovia.
+
+Comparando os tempos de viagem, vemos que o carro leva 0,91 horas e o caminhão leva 1,42 horas. Ou seja, o carro chegará ao ponto de cruzamento na rodovia antes do caminhão. Portanto, quando se cruzarem, o carro estará mais próximo da cidade de Ribeirão Preto.
